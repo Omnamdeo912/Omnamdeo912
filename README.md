@@ -1,4 +1,5 @@
-# Hi there, I'm Om 👋
+![](https://github.com/Omnamdeo912/Omnamdeo912/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
+# Hi there, I'm Om
 
 I am an aspiring Full Stack developer with a passion for creating meaningful and impactful web applications. My goal is to contribute to innovative projects that make a difference. Currently, I am exploring various technologies and frameworks to enhance my skills and knowledge.
 
